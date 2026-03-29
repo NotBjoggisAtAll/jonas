@@ -3,7 +3,7 @@ Copyright © 2026 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "cli/cmd"
+import "jonas/cmd"
 
 func main() {
 	cmd.Execute()
