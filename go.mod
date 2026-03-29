@@ -1,4 +1,4 @@
-module cli
+module jonas
 
 go 1.26
 
